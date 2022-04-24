@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "C03EI05/1.0.0": {
+        "dependencies": {
+          "Geometria": "1.0.0"
+        },
+        "runtime": {
+          "C03EI05.dll": {}
+        }
+      },
+      "Geometria/1.0.0": {
+        "runtime": {
+          "Geometria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C03EI05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Geometria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

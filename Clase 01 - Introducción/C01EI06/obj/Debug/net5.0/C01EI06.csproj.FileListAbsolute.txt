@@ -1,0 +1,16 @@
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 01 - Introducción\C01EI06\obj\Debug\net5.0\C01EI06.csproj.AssemblyReference.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 01 - Introducción\C01EI06\obj\Debug\net5.0\C01EI06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 01 - Introducción\C01EI06\obj\Debug\net5.0\C01EI06.AssemblyInfoInputs.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 01 - Introducción\C01EI06\obj\Debug\net5.0\C01EI06.AssemblyInfo.cs
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 01 - Introducción\C01EI06\obj\Debug\net5.0\C01EI06.csproj.CoreCompileInputs.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 01 - Introducción\C01EI06\bin\Debug\net5.0\C01EI06.exe
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 01 - Introducción\C01EI06\bin\Debug\net5.0\C01EI06.deps.json
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 01 - Introducción\C01EI06\bin\Debug\net5.0\C01EI06.runtimeconfig.json
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 01 - Introducción\C01EI06\bin\Debug\net5.0\C01EI06.runtimeconfig.dev.json
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 01 - Introducción\C01EI06\bin\Debug\net5.0\C01EI06.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 01 - Introducción\C01EI06\bin\Debug\net5.0\ref\C01EI06.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 01 - Introducción\C01EI06\bin\Debug\net5.0\C01EI06.pdb
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 01 - Introducción\C01EI06\obj\Debug\net5.0\C01EI06.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 01 - Introducción\C01EI06\obj\Debug\net5.0\ref\C01EI06.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 01 - Introducción\C01EI06\obj\Debug\net5.0\C01EI06.pdb
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 01 - Introducción\C01EI06\obj\Debug\net5.0\C01EI06.genruntimeconfig.cache

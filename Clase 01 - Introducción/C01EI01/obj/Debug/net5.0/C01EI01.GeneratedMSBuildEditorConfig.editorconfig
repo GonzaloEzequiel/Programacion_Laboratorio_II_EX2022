@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = C01EI01
+build_property.ProjectDir = C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 01 - Introducción\C01EI01\

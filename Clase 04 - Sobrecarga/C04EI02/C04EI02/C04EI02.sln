@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C04EI02", "C04EI02.csproj", "{7EB930DA-C04E-4F1D-9BBB-8393BB7B9930}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billetes", "..\Billetes\Billetes.csproj", "{2CC67BAC-878A-4BA5-A69C-4A1EA600A530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EB930DA-C04E-4F1D-9BBB-8393BB7B9930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB930DA-C04E-4F1D-9BBB-8393BB7B9930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB930DA-C04E-4F1D-9BBB-8393BB7B9930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB930DA-C04E-4F1D-9BBB-8393BB7B9930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CC67BAC-878A-4BA5-A69C-4A1EA600A530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC67BAC-878A-4BA5-A69C-4A1EA600A530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC67BAC-878A-4BA5-A69C-4A1EA600A530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC67BAC-878A-4BA5-A69C-4A1EA600A530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B3842F1-0743-4FCE-A196-DBE1F6EFAF9F}
+	EndGlobalSection
+EndGlobal

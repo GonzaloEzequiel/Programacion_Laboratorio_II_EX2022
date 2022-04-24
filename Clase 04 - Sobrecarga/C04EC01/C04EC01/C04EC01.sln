@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C04EC01", "C04EC01.csproj", "{D64CC8EB-8255-4347-BC45-CC9C5AF6EF85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilbiotecaC04EC01", "..\BilbiotecaC04EC01\BilbiotecaC04EC01.csproj", "{F5CC8E2C-A9E4-47AE-8FD5-2A4A334C2BEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D64CC8EB-8255-4347-BC45-CC9C5AF6EF85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D64CC8EB-8255-4347-BC45-CC9C5AF6EF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D64CC8EB-8255-4347-BC45-CC9C5AF6EF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D64CC8EB-8255-4347-BC45-CC9C5AF6EF85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5CC8E2C-A9E4-47AE-8FD5-2A4A334C2BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CC8E2C-A9E4-47AE-8FD5-2A4A334C2BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5CC8E2C-A9E4-47AE-8FD5-2A4A334C2BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5CC8E2C-A9E4-47AE-8FD5-2A4A334C2BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFCC712C-78A1-4AF6-8C06-62684449E8A6}
+	EndGlobalSection
+EndGlobal

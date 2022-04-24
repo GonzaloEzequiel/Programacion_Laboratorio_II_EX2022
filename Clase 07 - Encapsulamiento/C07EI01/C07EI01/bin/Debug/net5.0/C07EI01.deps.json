@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "C07EI01/1.0.0": {
+        "dependencies": {
+          "BilbiotecaC07EI01": "1.0.0"
+        },
+        "runtime": {
+          "C07EI01.dll": {}
+        }
+      },
+      "BilbiotecaC07EI01/1.0.0": {
+        "runtime": {
+          "BilbiotecaC07EI01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C07EI01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BilbiotecaC07EI01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

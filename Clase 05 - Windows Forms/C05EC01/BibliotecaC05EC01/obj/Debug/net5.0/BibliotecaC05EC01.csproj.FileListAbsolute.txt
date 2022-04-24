@@ -1,0 +1,12 @@
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 05 - Windows Forms\C05EC01\BibliotecaC05EC01\bin\Debug\net5.0\BibliotecaC05EC01.deps.json
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 05 - Windows Forms\C05EC01\BibliotecaC05EC01\bin\Debug\net5.0\BibliotecaC05EC01.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 05 - Windows Forms\C05EC01\BibliotecaC05EC01\bin\Debug\net5.0\ref\BibliotecaC05EC01.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 05 - Windows Forms\C05EC01\BibliotecaC05EC01\bin\Debug\net5.0\BibliotecaC05EC01.pdb
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 05 - Windows Forms\C05EC01\BibliotecaC05EC01\obj\Debug\net5.0\BibliotecaC05EC01.csproj.AssemblyReference.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 05 - Windows Forms\C05EC01\BibliotecaC05EC01\obj\Debug\net5.0\BibliotecaC05EC01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 05 - Windows Forms\C05EC01\BibliotecaC05EC01\obj\Debug\net5.0\BibliotecaC05EC01.AssemblyInfoInputs.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 05 - Windows Forms\C05EC01\BibliotecaC05EC01\obj\Debug\net5.0\BibliotecaC05EC01.AssemblyInfo.cs
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 05 - Windows Forms\C05EC01\BibliotecaC05EC01\obj\Debug\net5.0\BibliotecaC05EC01.csproj.CoreCompileInputs.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 05 - Windows Forms\C05EC01\BibliotecaC05EC01\obj\Debug\net5.0\BibliotecaC05EC01.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 05 - Windows Forms\C05EC01\BibliotecaC05EC01\obj\Debug\net5.0\ref\BibliotecaC05EC01.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 05 - Windows Forms\C05EC01\BibliotecaC05EC01\obj\Debug\net5.0\BibliotecaC05EC01.pdb

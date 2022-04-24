@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BibliotecaC07EI02/1.0.0": {
+        "runtime": {
+          "BibliotecaC07EI02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BibliotecaC07EI02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

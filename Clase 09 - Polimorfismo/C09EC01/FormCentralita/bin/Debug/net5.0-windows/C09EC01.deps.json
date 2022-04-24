@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "C09EC01/1.0.0": {
+        "dependencies": {
+          "BibliotecaCentralita": "1.0.0"
+        },
+        "runtime": {
+          "C09EC01.dll": {}
+        }
+      },
+      "BibliotecaCentralita/1.0.0": {
+        "runtime": {
+          "BibliotecaCentralita.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C09EC01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaCentralita/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

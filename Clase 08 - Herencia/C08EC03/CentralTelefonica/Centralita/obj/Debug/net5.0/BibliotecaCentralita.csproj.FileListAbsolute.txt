@@ -1,0 +1,12 @@
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC03\CentralTelefonica\Centralita\bin\Debug\net5.0\BibliotecaCentralita.deps.json
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC03\CentralTelefonica\Centralita\bin\Debug\net5.0\BibliotecaCentralita.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC03\CentralTelefonica\Centralita\bin\Debug\net5.0\BibliotecaCentralita.pdb
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC03\CentralTelefonica\Centralita\obj\Debug\net5.0\BibliotecaCentralita.csproj.AssemblyReference.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC03\CentralTelefonica\Centralita\obj\Debug\net5.0\BibliotecaCentralita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC03\CentralTelefonica\Centralita\obj\Debug\net5.0\BibliotecaCentralita.AssemblyInfoInputs.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC03\CentralTelefonica\Centralita\obj\Debug\net5.0\BibliotecaCentralita.AssemblyInfo.cs
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC03\CentralTelefonica\Centralita\obj\Debug\net5.0\BibliotecaCentralita.csproj.CoreCompileInputs.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC03\CentralTelefonica\Centralita\obj\Debug\net5.0\BibliotecaCentralita.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC03\CentralTelefonica\Centralita\obj\Debug\net5.0\ref\BibliotecaCentralita.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC03\CentralTelefonica\Centralita\obj\Debug\net5.0\BibliotecaCentralita.pdb
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC03\CentralTelefonica\Centralita\obj\Debug\net5.0\refint\BibliotecaCentralita.dll

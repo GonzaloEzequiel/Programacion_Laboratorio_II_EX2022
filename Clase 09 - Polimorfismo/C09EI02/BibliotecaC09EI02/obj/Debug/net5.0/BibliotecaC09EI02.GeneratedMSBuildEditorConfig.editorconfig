@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = BibliotecaC09EI02
+build_property.ProjectDir = C:\Users\20331112969\Desktop\repo\Programacion_Laboratorio_ii\Clase 09 - Polimorfismo\C09EI02\BibliotecaC09EI02\

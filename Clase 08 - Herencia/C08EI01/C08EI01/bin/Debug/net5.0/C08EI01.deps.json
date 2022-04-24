@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "C08EI01/1.0.0": {
+        "dependencies": {
+          "BibliotecaC08EI01": "1.0.0"
+        },
+        "runtime": {
+          "C08EI01.dll": {}
+        }
+      },
+      "BibliotecaC08EI01/1.0.0": {
+        "runtime": {
+          "BibliotecaC08EI01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C08EI01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaC08EI01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
