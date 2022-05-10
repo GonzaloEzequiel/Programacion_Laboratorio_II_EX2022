@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsolaC13EI02/1.0.0": {
+        "dependencies": {
+          "BibliotecaC13EI02": "1.0.0"
+        },
+        "runtime": {
+          "ConsolaC13EI02.dll": {}
+        }
+      },
+      "BibliotecaC13EI02/1.0.0": {
+        "runtime": {
+          "BibliotecaC13EI02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsolaC13EI02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaC13EI02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
