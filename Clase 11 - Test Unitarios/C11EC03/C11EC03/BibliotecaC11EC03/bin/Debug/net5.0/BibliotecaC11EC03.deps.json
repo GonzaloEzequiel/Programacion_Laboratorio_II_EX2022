@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BibliotecaC11EC03/1.0.0": {
+        "runtime": {
+          "BibliotecaC11EC03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BibliotecaC11EC03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -6204,24 +6204,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Flor y Gonza\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\geppe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Flor y Gonza\\Documents\\Gonza\\UTN\\2 Cuatri\\LAB 2 PROG 2\\EJERCICIOS\\Programacion_Laboratorio_II\\Clase 11 - Test Unitarios\\C11EI01\\C11EI01\\C11EI01.csproj",
+      "projectUniqueName": "C:\\Gonza\\UTN\\2 Cuatri\\LAB 2 PROG 2\\EJERCICIOS\\Programacion_Laboratorio_II\\Clase 11 - Test Unitarios\\C11EI01\\C11EI01\\C11EI01.csproj",
       "projectName": "C11EI01",
-      "projectPath": "C:\\Users\\Flor y Gonza\\Documents\\Gonza\\UTN\\2 Cuatri\\LAB 2 PROG 2\\EJERCICIOS\\Programacion_Laboratorio_II\\Clase 11 - Test Unitarios\\C11EI01\\C11EI01\\C11EI01.csproj",
-      "packagesPath": "C:\\Users\\Flor y Gonza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Flor y Gonza\\Documents\\Gonza\\UTN\\2 Cuatri\\LAB 2 PROG 2\\EJERCICIOS\\Programacion_Laboratorio_II\\Clase 11 - Test Unitarios\\C11EI01\\C11EI01\\obj\\",
+      "projectPath": "C:\\Gonza\\UTN\\2 Cuatri\\LAB 2 PROG 2\\EJERCICIOS\\Programacion_Laboratorio_II\\Clase 11 - Test Unitarios\\C11EI01\\C11EI01\\C11EI01.csproj",
+      "packagesPath": "C:\\Users\\geppe\\.nuget\\packages\\",
+      "outputPath": "C:\\Gonza\\UTN\\2 Cuatri\\LAB 2 PROG 2\\EJERCICIOS\\Programacion_Laboratorio_II\\Clase 11 - Test Unitarios\\C11EI01\\C11EI01\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Flor y Gonza\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\geppe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6279,7 +6274,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -66,15 +66,6 @@ namespace BibliotecaCentralita
         }
 
         /// <summary>
-        /// Recibe una instancia de Llamada y la agrega a la lista de llamadas
-        /// </summary>
-        /// <param name="nuevaLlamada">Llamada a agregar</param>
-        private void AgregarLlamada(Llamada nuevaLlamada)
-        {
-            this.Llamadas.Add(nuevaLlamada);
-        }
-
-        /// <summary>
         /// Expone la razón social, la ganancia total, ganancia por llamados locales y provinciales y el detalle de las llamadas realizadas.
         /// </summary>
         /// <returns></returns>
@@ -88,49 +79,7 @@ namespace BibliotecaCentralita
             retorno.AppendLine($"Ganancias totales: ${this.GananciasPorTotal}");
 
             return retorno.ToString();
-        }
-
-        /// <summary>
-        /// Busca y compara si una llamada forma parte o no en la lista de llamadas de una Centralita
-        /// </summary>
-        /// <param name="c">Centralita</param>
-        /// <param name="llamada">Llamada a buscar</param>
-        /// <returns>TRUE si la centralita contiene la llamada, FALSE si no</returns>
-        public static bool operator !=(Centralita c, Llamada llamada)
-        {
-            return !(c== llamada);
-        }
-
-        /// <summary>
-        /// Invoca al método AgregarLlamada sólo si la llamada no está registrada en la Centralita
-        /// </summary>
-        /// <param name="c">Centralita</param>
-        /// <param name="llamada">Llamada a agregar</param>
-        /// <returns>devuelve la Centralita con la llamada agregada (o no)</returns>
-        public static Centralita operator +(Centralita c, Llamada llamada)
-        {
-            if (c != llamada)
-                c.AgregarLlamada(llamada);
-
-            return c;
-        }
-
-        /// <summary>
-        /// Busca y compara si una llamada forma parte o no en la lista de llamadas de una Centralita
-        /// </summary>
-        /// <param name="c">Centralita</param>
-        /// <param name="llamada">Llamada a buscar</param>
-        /// <returns>TRUE si la centralita contiene la llamada, FALSE si no</returns>
-        public static bool operator ==(Centralita c, Llamada llamada)
-        {
-            //return c.Llamadas.Contains(llamada);
-
-            foreach(Llamada item in c.Llamadas)
-                if(item==llamada)
-                    return true;
-
-            return false;
-        }
+        }        
 
         /// <summary>
         /// 
@@ -141,15 +90,6 @@ namespace BibliotecaCentralita
             //{
             //    foreach(Ll)
             //}
-        }
-
-        /// <summary>
-        /// Reutiliza el código del método Mostrar
-        /// </summary>
-        /// <returns>Todos los datos de una llamada local</returns>
-        public override string ToString()
-        {
-            return this.Mostrar();
         }
     }
 }

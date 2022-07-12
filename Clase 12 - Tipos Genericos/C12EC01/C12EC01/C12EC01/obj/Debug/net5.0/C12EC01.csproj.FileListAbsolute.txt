@@ -1,0 +1,76 @@
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC02\C08EC02\obj\Debug\net5.0\C08EC02.csproj.AssemblyReference.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC02\C08EC02\obj\Debug\net5.0\C08EC02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC02\C08EC02\obj\Debug\net5.0\C08EC02.AssemblyInfoInputs.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC02\C08EC02\obj\Debug\net5.0\C08EC02.AssemblyInfo.cs
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC02\C08EC02\obj\Debug\net5.0\C08EC02.csproj.CoreCompileInputs.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC02\C08EC02\bin\Debug\net5.0\C08EC02.exe
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC02\C08EC02\bin\Debug\net5.0\C08EC02.deps.json
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC02\C08EC02\bin\Debug\net5.0\C08EC02.runtimeconfig.json
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC02\C08EC02\bin\Debug\net5.0\C08EC02.runtimeconfig.dev.json
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC02\C08EC02\bin\Debug\net5.0\C08EC02.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC02\C08EC02\bin\Debug\net5.0\ref\C08EC02.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC02\C08EC02\bin\Debug\net5.0\C08EC02.pdb
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC02\C08EC02\bin\Debug\net5.0\BibliotecaC08EC02.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC02\C08EC02\bin\Debug\net5.0\BibliotecaC08EC02.pdb
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC02\C08EC02\obj\Debug\net5.0\C08EC02.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC02\C08EC02\obj\Debug\net5.0\ref\C08EC02.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC02\C08EC02\obj\Debug\net5.0\C08EC02.pdb
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC02\C08EC02\obj\Debug\net5.0\C08EC02.genruntimeconfig.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 08 - Herencia\C08EC02\C08EC02\obj\Debug\net5.0\C08EC02.csproj.CopyComplete
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 10 - Excepciones\C10EC02\C10EC02\obj\Debug\net5.0\C10EC02.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 10 - Excepciones\C10EC02\C10EC02\obj\Debug\net5.0\C10EC02.pdb
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 10 - Excepciones\C10EC02\C10EC02\bin\Debug\net5.0\C10EC02.exe
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 10 - Excepciones\C10EC02\C10EC02\bin\Debug\net5.0\C10EC02.deps.json
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 10 - Excepciones\C10EC02\C10EC02\bin\Debug\net5.0\C10EC02.runtimeconfig.json
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 10 - Excepciones\C10EC02\C10EC02\bin\Debug\net5.0\C10EC02.runtimeconfig.dev.json
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 10 - Excepciones\C10EC02\C10EC02\bin\Debug\net5.0\C10EC02.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 10 - Excepciones\C10EC02\C10EC02\bin\Debug\net5.0\C10EC02.pdb
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 10 - Excepciones\C10EC02\C10EC02\bin\Debug\net5.0\BibliotecaC10EC02.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 10 - Excepciones\C10EC02\C10EC02\bin\Debug\net5.0\BibliotecaC10EC02.pdb
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 10 - Excepciones\C10EC02\C10EC02\obj\Debug\net5.0\C10EC02.csproj.AssemblyReference.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 10 - Excepciones\C10EC02\C10EC02\obj\Debug\net5.0\C10EC02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 10 - Excepciones\C10EC02\C10EC02\obj\Debug\net5.0\C10EC02.AssemblyInfoInputs.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 10 - Excepciones\C10EC02\C10EC02\obj\Debug\net5.0\C10EC02.AssemblyInfo.cs
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 10 - Excepciones\C10EC02\C10EC02\obj\Debug\net5.0\C10EC02.csproj.CoreCompileInputs.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 10 - Excepciones\C10EC02\C10EC02\obj\Debug\net5.0\C10EC02.csproj.CopyComplete
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 10 - Excepciones\C10EC02\C10EC02\obj\Debug\net5.0\refint\C10EC02.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 10 - Excepciones\C10EC02\C10EC02\obj\Debug\net5.0\C10EC02.genruntimeconfig.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 10 - Excepciones\C10EC02\C10EC02\obj\Debug\net5.0\ref\C10EC02.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 11 - Test Unitarios\C11EC03\C11EC03\C11EC03\obj\Debug\net5.0\C11EC03.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 11 - Test Unitarios\C11EC03\C11EC03\C11EC03\obj\Debug\net5.0\refint\C11EC03.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 11 - Test Unitarios\C11EC03\C11EC03\C11EC03\obj\Debug\net5.0\C11EC03.pdb
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 11 - Test Unitarios\C11EC03\C11EC03\C11EC03\bin\Debug\net5.0\C11EC03.exe
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 11 - Test Unitarios\C11EC03\C11EC03\C11EC03\bin\Debug\net5.0\C11EC03.deps.json
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 11 - Test Unitarios\C11EC03\C11EC03\C11EC03\bin\Debug\net5.0\C11EC03.runtimeconfig.json
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 11 - Test Unitarios\C11EC03\C11EC03\C11EC03\bin\Debug\net5.0\C11EC03.runtimeconfig.dev.json
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 11 - Test Unitarios\C11EC03\C11EC03\C11EC03\bin\Debug\net5.0\C11EC03.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 11 - Test Unitarios\C11EC03\C11EC03\C11EC03\bin\Debug\net5.0\C11EC03.pdb
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 11 - Test Unitarios\C11EC03\C11EC03\C11EC03\bin\Debug\net5.0\BibliotecaC11EC03.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 11 - Test Unitarios\C11EC03\C11EC03\C11EC03\bin\Debug\net5.0\BibliotecaC11EC03.pdb
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 11 - Test Unitarios\C11EC03\C11EC03\C11EC03\obj\Debug\net5.0\C11EC03.csproj.AssemblyReference.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 11 - Test Unitarios\C11EC03\C11EC03\C11EC03\obj\Debug\net5.0\C11EC03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 11 - Test Unitarios\C11EC03\C11EC03\C11EC03\obj\Debug\net5.0\C11EC03.AssemblyInfoInputs.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 11 - Test Unitarios\C11EC03\C11EC03\C11EC03\obj\Debug\net5.0\C11EC03.AssemblyInfo.cs
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 11 - Test Unitarios\C11EC03\C11EC03\C11EC03\obj\Debug\net5.0\C11EC03.csproj.CoreCompileInputs.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 11 - Test Unitarios\C11EC03\C11EC03\C11EC03\obj\Debug\net5.0\C11EC03.csproj.CopyComplete
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 11 - Test Unitarios\C11EC03\C11EC03\C11EC03\obj\Debug\net5.0\C11EC03.genruntimeconfig.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 11 - Test Unitarios\C11EC03\C11EC03\C11EC03\obj\Debug\net5.0\ref\C11EC03.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 12 - Tipos Genericos\C12EC01\C12EC01\C12EC01\bin\Debug\net5.0\C12EC01.exe
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 12 - Tipos Genericos\C12EC01\C12EC01\C12EC01\bin\Debug\net5.0\C12EC01.deps.json
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 12 - Tipos Genericos\C12EC01\C12EC01\C12EC01\bin\Debug\net5.0\C12EC01.runtimeconfig.json
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 12 - Tipos Genericos\C12EC01\C12EC01\C12EC01\bin\Debug\net5.0\C12EC01.runtimeconfig.dev.json
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 12 - Tipos Genericos\C12EC01\C12EC01\C12EC01\bin\Debug\net5.0\C12EC01.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 12 - Tipos Genericos\C12EC01\C12EC01\C12EC01\bin\Debug\net5.0\C12EC01.pdb
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 12 - Tipos Genericos\C12EC01\C12EC01\C12EC01\bin\Debug\net5.0\BibliotecaC11EC03.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 12 - Tipos Genericos\C12EC01\C12EC01\C12EC01\bin\Debug\net5.0\BibliotecaC11EC03.pdb
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 12 - Tipos Genericos\C12EC01\C12EC01\C12EC01\obj\Debug\net5.0\C12EC01.csproj.AssemblyReference.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 12 - Tipos Genericos\C12EC01\C12EC01\C12EC01\obj\Debug\net5.0\C12EC01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 12 - Tipos Genericos\C12EC01\C12EC01\C12EC01\obj\Debug\net5.0\C12EC01.AssemblyInfoInputs.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 12 - Tipos Genericos\C12EC01\C12EC01\C12EC01\obj\Debug\net5.0\C12EC01.AssemblyInfo.cs
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 12 - Tipos Genericos\C12EC01\C12EC01\C12EC01\obj\Debug\net5.0\C12EC01.csproj.CoreCompileInputs.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 12 - Tipos Genericos\C12EC01\C12EC01\C12EC01\obj\Debug\net5.0\C12EC01.csproj.CopyComplete
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 12 - Tipos Genericos\C12EC01\C12EC01\C12EC01\obj\Debug\net5.0\C12EC01.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 12 - Tipos Genericos\C12EC01\C12EC01\C12EC01\obj\Debug\net5.0\refint\C12EC01.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 12 - Tipos Genericos\C12EC01\C12EC01\C12EC01\obj\Debug\net5.0\C12EC01.pdb
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 12 - Tipos Genericos\C12EC01\C12EC01\C12EC01\obj\Debug\net5.0\C12EC01.genruntimeconfig.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 12 - Tipos Genericos\C12EC01\C12EC01\C12EC01\obj\Debug\net5.0\ref\C12EC01.dll

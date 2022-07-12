@@ -58,6 +58,7 @@ namespace C01EI01
             Console.WriteLine($"Máximo: {max}");
             Console.WriteLine($"Mínimo: {min}");
             Console.WriteLine($"Promedio: {promedio}");
+
         }
     }
 }

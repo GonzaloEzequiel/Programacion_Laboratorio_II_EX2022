@@ -8,8 +8,8 @@ namespace BibliotecaC13EI02
 {
     public interface IAfip
     {
-        public abstract decimal Impuestos { get; }
+        public decimal Impuestos { get; }
 
-        public abstract decimal AplicarImpuestos();
+        public decimal AplicarImpuestos();
     }
 }

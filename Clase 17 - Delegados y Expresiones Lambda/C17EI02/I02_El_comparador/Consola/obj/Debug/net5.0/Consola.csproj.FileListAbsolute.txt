@@ -1,0 +1,32 @@
+C:\Repositories\programacion_2_laboratorio_2\Ejercicios_Resueltos\Clase_18\I02_El_comparador\Consola\bin\Debug\net5.0\Consola.exe
+C:\Repositories\programacion_2_laboratorio_2\Ejercicios_Resueltos\Clase_18\I02_El_comparador\Consola\bin\Debug\net5.0\Consola.deps.json
+C:\Repositories\programacion_2_laboratorio_2\Ejercicios_Resueltos\Clase_18\I02_El_comparador\Consola\bin\Debug\net5.0\Consola.runtimeconfig.json
+C:\Repositories\programacion_2_laboratorio_2\Ejercicios_Resueltos\Clase_18\I02_El_comparador\Consola\bin\Debug\net5.0\Consola.runtimeconfig.dev.json
+C:\Repositories\programacion_2_laboratorio_2\Ejercicios_Resueltos\Clase_18\I02_El_comparador\Consola\bin\Debug\net5.0\Consola.dll
+C:\Repositories\programacion_2_laboratorio_2\Ejercicios_Resueltos\Clase_18\I02_El_comparador\Consola\bin\Debug\net5.0\ref\Consola.dll
+C:\Repositories\programacion_2_laboratorio_2\Ejercicios_Resueltos\Clase_18\I02_El_comparador\Consola\bin\Debug\net5.0\Consola.pdb
+C:\Repositories\programacion_2_laboratorio_2\Ejercicios_Resueltos\Clase_18\I02_El_comparador\Consola\obj\Debug\net5.0\Consola.csproj.AssemblyReference.cache
+C:\Repositories\programacion_2_laboratorio_2\Ejercicios_Resueltos\Clase_18\I02_El_comparador\Consola\obj\Debug\net5.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\programacion_2_laboratorio_2\Ejercicios_Resueltos\Clase_18\I02_El_comparador\Consola\obj\Debug\net5.0\Consola.AssemblyInfoInputs.cache
+C:\Repositories\programacion_2_laboratorio_2\Ejercicios_Resueltos\Clase_18\I02_El_comparador\Consola\obj\Debug\net5.0\Consola.AssemblyInfo.cs
+C:\Repositories\programacion_2_laboratorio_2\Ejercicios_Resueltos\Clase_18\I02_El_comparador\Consola\obj\Debug\net5.0\Consola.csproj.CoreCompileInputs.cache
+C:\Repositories\programacion_2_laboratorio_2\Ejercicios_Resueltos\Clase_18\I02_El_comparador\Consola\obj\Debug\net5.0\Consola.dll
+C:\Repositories\programacion_2_laboratorio_2\Ejercicios_Resueltos\Clase_18\I02_El_comparador\Consola\obj\Debug\net5.0\ref\Consola.dll
+C:\Repositories\programacion_2_laboratorio_2\Ejercicios_Resueltos\Clase_18\I02_El_comparador\Consola\obj\Debug\net5.0\Consola.pdb
+C:\Repositories\programacion_2_laboratorio_2\Ejercicios_Resueltos\Clase_18\I02_El_comparador\Consola\obj\Debug\net5.0\Consola.genruntimeconfig.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 17 - Delegados y Expresiones Lambda\C17EI02\I02_El_comparador\Consola\bin\Debug\net5.0\Consola.exe
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 17 - Delegados y Expresiones Lambda\C17EI02\I02_El_comparador\Consola\bin\Debug\net5.0\Consola.deps.json
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 17 - Delegados y Expresiones Lambda\C17EI02\I02_El_comparador\Consola\bin\Debug\net5.0\Consola.runtimeconfig.json
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 17 - Delegados y Expresiones Lambda\C17EI02\I02_El_comparador\Consola\bin\Debug\net5.0\Consola.runtimeconfig.dev.json
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 17 - Delegados y Expresiones Lambda\C17EI02\I02_El_comparador\Consola\bin\Debug\net5.0\Consola.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 17 - Delegados y Expresiones Lambda\C17EI02\I02_El_comparador\Consola\bin\Debug\net5.0\Consola.pdb
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 17 - Delegados y Expresiones Lambda\C17EI02\I02_El_comparador\Consola\obj\Debug\net5.0\Consola.csproj.AssemblyReference.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 17 - Delegados y Expresiones Lambda\C17EI02\I02_El_comparador\Consola\obj\Debug\net5.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 17 - Delegados y Expresiones Lambda\C17EI02\I02_El_comparador\Consola\obj\Debug\net5.0\Consola.AssemblyInfoInputs.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 17 - Delegados y Expresiones Lambda\C17EI02\I02_El_comparador\Consola\obj\Debug\net5.0\Consola.AssemblyInfo.cs
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 17 - Delegados y Expresiones Lambda\C17EI02\I02_El_comparador\Consola\obj\Debug\net5.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 17 - Delegados y Expresiones Lambda\C17EI02\I02_El_comparador\Consola\obj\Debug\net5.0\Consola.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 17 - Delegados y Expresiones Lambda\C17EI02\I02_El_comparador\Consola\obj\Debug\net5.0\refint\Consola.dll
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 17 - Delegados y Expresiones Lambda\C17EI02\I02_El_comparador\Consola\obj\Debug\net5.0\Consola.pdb
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 17 - Delegados y Expresiones Lambda\C17EI02\I02_El_comparador\Consola\obj\Debug\net5.0\Consola.genruntimeconfig.cache
+C:\Users\Flor y Gonza\Documents\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 17 - Delegados y Expresiones Lambda\C17EI02\I02_El_comparador\Consola\obj\Debug\net5.0\ref\Consola.dll

@@ -47,17 +47,7 @@ namespace BibliotecaCentralita
                     return -1;
             }
         }
-
-        /// <summary>
-        /// Compara el objeto dado con su tipo, verificando que sea del tipo Provincial
-        /// </summary>
-        /// <param name="obj"></param>
-        /// <returns>TRUE si el objeto que recibe es de tipo Local</returns>
-        public override bool Equals(object obj)
-        {
-            return obj.GetType().Name == "Provincial";
-        }
-
+        
         /// <summary>
         /// Retorna como texto todos los datos de la clase base y agrega el costo de la llamada y la franja horaria
         /// </summary>
@@ -71,15 +61,6 @@ namespace BibliotecaCentralita
             retorno.AppendLine($"Franja horaria: {this.franjaHoraria}");
 
             return retorno.ToString();
-        }
-
-        /// <summary>
-        /// Reutiliza el código del método Mostrar
-        /// </summary>
-        /// <returns>Todos los datos de una llamada provincial</returns>
-        public override string ToString()
-        {
-            return this.Mostrar();
         }
     }
 }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExcepcionesC14EC01/1.0.0": {
+        "runtime": {
+          "ExcepcionesC14EC01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExcepcionesC14EC01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

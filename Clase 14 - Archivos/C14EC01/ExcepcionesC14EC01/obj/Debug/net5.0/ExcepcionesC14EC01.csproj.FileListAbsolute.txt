@@ -1,0 +1,12 @@
+C:\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 14 - Archivos\C14EC01\ExcepcionesC14EC01\bin\Debug\net5.0\ExcepcionesC14EC01.deps.json
+C:\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 14 - Archivos\C14EC01\ExcepcionesC14EC01\bin\Debug\net5.0\ExcepcionesC14EC01.dll
+C:\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 14 - Archivos\C14EC01\ExcepcionesC14EC01\bin\Debug\net5.0\ExcepcionesC14EC01.pdb
+C:\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 14 - Archivos\C14EC01\ExcepcionesC14EC01\obj\Debug\net5.0\ExcepcionesC14EC01.csproj.AssemblyReference.cache
+C:\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 14 - Archivos\C14EC01\ExcepcionesC14EC01\obj\Debug\net5.0\ExcepcionesC14EC01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 14 - Archivos\C14EC01\ExcepcionesC14EC01\obj\Debug\net5.0\ExcepcionesC14EC01.AssemblyInfoInputs.cache
+C:\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 14 - Archivos\C14EC01\ExcepcionesC14EC01\obj\Debug\net5.0\ExcepcionesC14EC01.AssemblyInfo.cs
+C:\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 14 - Archivos\C14EC01\ExcepcionesC14EC01\obj\Debug\net5.0\ExcepcionesC14EC01.csproj.CoreCompileInputs.cache
+C:\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 14 - Archivos\C14EC01\ExcepcionesC14EC01\obj\Debug\net5.0\ExcepcionesC14EC01.dll
+C:\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 14 - Archivos\C14EC01\ExcepcionesC14EC01\obj\Debug\net5.0\refint\ExcepcionesC14EC01.dll
+C:\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 14 - Archivos\C14EC01\ExcepcionesC14EC01\obj\Debug\net5.0\ExcepcionesC14EC01.pdb
+C:\Gonza\UTN\2 Cuatri\LAB 2 PROG 2\EJERCICIOS\Programacion_Laboratorio_II\Clase 14 - Archivos\C14EC01\ExcepcionesC14EC01\obj\Debug\net5.0\ref\ExcepcionesC14EC01.dll

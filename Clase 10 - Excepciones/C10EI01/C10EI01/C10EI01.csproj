@@ -5,4 +5,8 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ExcepcionesC10EI01\ExcepcionesC10EI01.csproj" />
+  </ItemGroup>
+
 </Project>

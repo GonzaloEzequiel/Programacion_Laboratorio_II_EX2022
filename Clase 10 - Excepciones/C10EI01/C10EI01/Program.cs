@@ -16,6 +16,9 @@
  */
 
 using System;
+using System.Text;
+using C10EI01;
+using ExcepcionesC10EI01;
 
 namespace C10EI01
 {
@@ -23,7 +26,25 @@ namespace C10EI01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            OtraClase prueba = new OtraClase();
+
+            try
+            {
+                prueba.MetodoDeInstancia();
+
+            }
+            catch (MiException ex)
+            {
+                StringBuilder sb = new StringBuilder();
+                sb.AppendLine("Se capturó MiExcepcion!!");
+                sb.AppendLine("-------------------------------------");
+                sb.AppendLine("Mensaje de MiExcepción: " + ex.Message);
+                sb.AppendLine("Mensaje de MiExcepción.InnerException (UnaExepcion): " + ex.InnerException.Message);
+                sb.AppendLine("Mensaje de MiExcepción.InnerException.InnerException (DivideByZeroException): " + ex.InnerException.InnerException.Message);
+
+                Console.WriteLine(sb.ToString());
+            }
+
         }
     }
 }

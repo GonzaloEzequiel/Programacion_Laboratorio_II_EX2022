@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ExcepcionesC10EI01;
 
 namespace C10EI01
 {
@@ -10,19 +11,38 @@ namespace C10EI01
     {
         private string atributo;
 
-        public MiClase() : this("vacio")
+        public MiClase()
         {
-
+            try
+            {
+                MetodoEstatico();
+            }
+            catch(DivideByZeroException)
+            {
+                Console.WriteLine("Se capturo la excepcion DivideByZeroException");
+                throw;                
+            }
         }
 
         public MiClase(string atributo)
         {
             this.atributo = atributo;
+
+            try
+            {
+                new MiClase();
+            }
+            catch (DivideByZeroException exDBZCapturada)
+            {
+                Console.WriteLine("Se REcapturo (RElanzada) la excepcion DivideByZeroException");
+                throw new UnaException($"Excepción DivideByZeroException REcapturada", exDBZCapturada);
+            }
         }
 
-        public static string Mostrar(MiClase instancia)
+        public static void MetodoEstatico()
         {
-            throw new DivideByZeroException();
+            Console.WriteLine("Se lanza la excpecion DivideByZeroException");
+            throw new DivideByZeroException("Exception original lanzada");
         }
     }
 }

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "C11EC02/1.0.0": {
+        "dependencies": {
+          "ExcepcionesC11EC02": "1.0.0"
+        },
+        "runtime": {
+          "C11EC02.dll": {}
+        }
+      },
+      "ExcepcionesC11EC02/1.0.0": {
+        "runtime": {
+          "ExcepcionesC11EC02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C11EC02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExcepcionesC11EC02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

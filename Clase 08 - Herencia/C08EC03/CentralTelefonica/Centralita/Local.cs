@@ -20,27 +20,6 @@ namespace BibliotecaCentralita
             this.costo = costo;
         }
 
-        public override float CostoLlamada { get { return this.CalcularCosto(); } }
-
-        /// <summary>
-        /// Retorna el valor de la llamada a partir de la duración y el costo de la misma.
-        /// </summary>
-        /// <returns>El valor de la llamada local</returns>
-        private float CalcularCosto()
-        {
-            return base.Duracion * this.costo;
-        }
-
-        /// <summary>
-        /// Compara el objeto dado con su tipo, verificando que sea del tipo Local
-        /// </summary>
-        /// <param name="obj"></param>
-        /// <returns>TRUE si el objeto que recibe es de tipo Local</returns>
-        public override bool Equals(object obj)
-        {
-            return obj.GetType().Name == "Local";
-        }
-
         /// <summary>
         /// Retorna como texto todos los datos de la clase base y agrega el costo de la llamada.
         /// </summary>
@@ -53,15 +32,6 @@ namespace BibliotecaCentralita
             retorno.AppendLine($"Costo de llamada: ${this.CostoLlamada}");
 
             return retorno.ToString();
-        }
-
-        /// <summary>
-        /// Reutiliza el código del método Mostrar
-        /// </summary>
-        /// <returns>Todos los datos de una llamada local</returns>
-        public override string ToString()
-        {
-            return this.Mostrar();
         }
     }
 }

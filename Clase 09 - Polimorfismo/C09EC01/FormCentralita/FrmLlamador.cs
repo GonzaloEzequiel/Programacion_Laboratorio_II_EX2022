@@ -14,12 +14,14 @@ namespace FormCentralita
     public partial class FrmLlamador : Form
     {
         private Centralita centralitaPasada;
+        private Random random;
 
         public FrmLlamador(Centralita unaCentralita)
         {
             InitializeComponent();
 
             this.centralitaPasada = unaCentralita;
+            this.random = new Random();
         }
 
         public Centralita MostrarCentralita
@@ -102,6 +104,34 @@ namespace FormCentralita
 
         private void btnLlamar_Click(object sender, EventArgs e)
         {
+            //genera duacion entre 1 y 50
+            float duracion = random.Next(1, 50);
+            
+            //genera costo entre 0,5 y 5,6
+            float costo;
+            do
+            {
+                //         parte entera         parte decimal
+                costo = random.Next(0, 5) + (float)random.NextDouble();
+
+            } while (costo < 0.5 || costo > 5.6);
+
+            Llamada llamada;
+
+
+
+            if(this.txtNroDestino.Text.StartsWith('#'))
+            {
+                llamada = new Provincial(this.txtNroOrigen.Text, (Provincial.EFranja)this.cmbFranja.SelectedItem, duracion, this.txtNroDestino.Text);
+            }
+            else
+            {
+                llamada = new Local(this.txtNroOrigen.Text, duracion, this.txtNroDestino.Text, costo);
+            }
+
+            this.centralitaPasada += llamada;
+
+            MessageBox.Show("Llamada realizada y registrada");
 
         }
 
@@ -116,6 +146,5 @@ namespace FormCentralita
             this.Close();
         }
 
-        
     }
 }

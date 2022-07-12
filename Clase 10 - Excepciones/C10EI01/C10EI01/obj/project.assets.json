@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "ExcepcionesC10EI01/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ExcepcionesC10EI01.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExcepcionesC10EI01.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ExcepcionesC10EI01/1.0.0": {
+      "type": "project",
+      "path": "../ExcepcionesC10EI01/ExcepcionesC10EI01.csproj",
+      "msbuildProject": "../ExcepcionesC10EI01/ExcepcionesC10EI01.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "ExcepcionesC10EI01 >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Flor y Gonza\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Flor y Gonza\\Documents\\Gonza\\UTN\\2 Cuatri\\LAB 2 PROG 2\\EJERCICIOS\\Programacion_Laboratorio_II\\Clase 10 - Excepciones\\C10EI01\\ExcepcionesC10EI01\\ExcepcionesC10EI01.csproj": {
+              "projectPath": "C:\\Users\\Flor y Gonza\\Documents\\Gonza\\UTN\\2 Cuatri\\LAB 2 PROG 2\\EJERCICIOS\\Programacion_Laboratorio_II\\Clase 10 - Excepciones\\C10EI01\\ExcepcionesC10EI01\\ExcepcionesC10EI01.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,5 @@
+Se capturó MiExcepcion!!
+-------------------------------------
+Mensaje de MiExcepción: Excepción REcapaturada recapturada(2)
+Mensaje de MiExcepción.InnerException (UnaExepcion): Excepción DivideByZeroException REcapturada
+Mensaje de MiExcepción.InnerException.InnerException (DivideByZeroException): Exception original lanzada
